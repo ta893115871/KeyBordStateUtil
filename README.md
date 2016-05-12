@@ -1,4 +1,5 @@
-# PagerSlidingTabStrip
+# KeyBordStateUtil
+在Android里
 你还在为监听键盘的打开还是关闭而烦恼吗?
 你还在为怎么获取键盘高度而烦恼吗?
 第三方键盘那么多!fuck!!
